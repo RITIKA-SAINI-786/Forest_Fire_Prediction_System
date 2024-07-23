@@ -1,0 +1,13 @@
+/* Custom Stylesheet */
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+  font-size: inherit;
+}
+.bg-logo {
+  background: url('/static/forest_conserv.png'); /* Replace '/static/forest_conserv.png' with the correct path or URL to your image */
+  background-size: cover;
+  height: 300px;
+}
